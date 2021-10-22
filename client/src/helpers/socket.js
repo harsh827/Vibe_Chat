@@ -1,6 +1,6 @@
 import { io } from 'socket.io-client'
 
-const ENDPOINT = 'https://chao-chat.herokuapp.com/'
+const ENDPOINT = 'https://chat827.herokuapp.com/'
 
 export const socket = io(ENDPOINT)
 export let socketID = ''
