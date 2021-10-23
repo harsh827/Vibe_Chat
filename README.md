@@ -5,17 +5,15 @@
 
 ## Features
 
-- This app allows one to one chat online and its fast and easy to use. 
+- This app allows one to one chat online by creating chat rooms. 
  
- - One can chat and create unlimited chat rooms.
-
- - On typing Emojis character they get tranferred to the corresponding Emoji picture
+ - On typing Emojis character they get tranferred to the corresponding Emoji pictures.
 
  - As new messages come chat box gets automatically scrolled down for user-friendliness.
  
  - A small scroll-to-bottom buttom appears as soon as chat size is not able to fit chatbox
 
-Open multiple browsers, add an username and room name
+Open multiple browsers tabs, then add username and room-name
 
 Start chatting !
 
