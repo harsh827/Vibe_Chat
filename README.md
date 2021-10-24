@@ -13,7 +13,7 @@
  
  - A small scroll-to-bottom buttom appears as soon as chat size is not able to fit chatbox
 
-Open multiple browsers tabs, then add username and room-name
+Open multiple browsers tabs OR share website link with your friends, then add username and room-name
 
 Start chatting !
 
