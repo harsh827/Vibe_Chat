@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3dd71143-2720-47d0-827b-8e83f4334a9d/deploy-status)](https://app.netlify.com/sites/tender-mccarthy-f78a63/deploys)
 ---
 
-# Socket Chat Webapp
+# Chao Chat Webapp
 
 ## Features
 
