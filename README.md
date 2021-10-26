@@ -7,7 +7,7 @@
 
 - This app allows one to one chat online by creating chat rooms. 
  
- - On typing Emojis character they get tranferred to the corresponding Emoji pictures.
+ - On typing Emojis character[ examples :D , ;P ] they get tranferred to the corresponding Emoji pictures.
 
  - As new messages come chat box gets automatically scrolled down for user-friendliness.
  
