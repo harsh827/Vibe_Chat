@@ -25,7 +25,7 @@ Start chatting !
 
 View the application at [https://chat87.netlify.app](https://chat87.netlify.app)
 
-![wa6OA3ugDn](https://user-images.githubusercontent.com/73309402/138856874-bd65e2ad-9a2a-4886-9b2e-5d357376f429.gif)
+![GIF Preview ](https://user-images.githubusercontent.com/73309402/138856874-bd65e2ad-9a2a-4886-9b2e-5d357376f429.gif)
 
 
 # Technologies
