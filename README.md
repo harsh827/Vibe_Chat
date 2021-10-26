@@ -1,13 +1,13 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3dd71143-2720-47d0-827b-8e83f4334a9d/deploy-status)](https://app.netlify.com/sites/tender-mccarthy-f78a63/deploys)
 ---
 
-# Chao Chat Webapp
+# Chat Webapp
 
 ## Features
 
 - This app allows one to one chat online by creating chat rooms. 
  
- - On typing Emojis character they get tranferred to the corresponding Emoji pictures.
+ - On typing Emojis character[ examples :D , ;P ] they get tranferred to the corresponding Emoji pictures.
 
  - As new messages come chat box gets automatically scrolled down for user-friendliness.
  
@@ -25,7 +25,7 @@ Start chatting !
 
 View the application at [https://chat87.netlify.app](https://chat87.netlify.app)
 
-![wa6OA3ugDn](https://user-images.githubusercontent.com/49658988/130487246-b33593a0-9aa2-4567-8b47-1ce4bed3a1d8.gif)
+![GIF Preview ](https://user-images.githubusercontent.com/73309402/138856874-bd65e2ad-9a2a-4886-9b2e-5d357376f429.gif)
 
 
 # Technologies
