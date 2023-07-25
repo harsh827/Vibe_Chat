@@ -22,9 +22,9 @@ Start chatting !
 - Room name is displayed  at top of chatbox
 
 - Username of person who sent the message is on the side of message
-
+<!--
 View the application at [https://chat87.netlify.app](https://chat87.netlify.app)
-
+-->
 ![GIF Preview ](https://user-images.githubusercontent.com/73309402/138856874-bd65e2ad-9a2a-4886-9b2e-5d357376f429.gif)
 
 
