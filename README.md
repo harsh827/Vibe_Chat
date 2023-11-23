@@ -5,7 +5,7 @@
 
 ## Features
 
-- This app allows one to one chat online by creating chat rooms. 
+- This app allows online chat by creating chat rooms. 
  
  - On typing Emojis character[ examples :D , ;P ] they get tranferred to the corresponding Emoji pictures.
 
